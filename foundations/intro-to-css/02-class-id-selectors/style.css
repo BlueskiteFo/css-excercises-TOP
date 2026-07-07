@@ -1,5 +1,5 @@
 .odd {
-  background-color: lightpink;
+  background-color: #ffb6c1;
   font-family: verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -8,7 +8,7 @@
 }
 
 #second {
-  color: blue;
+  color: rgb(0, 0, 256);
   font-size: 36px;
 }
 
