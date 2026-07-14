@@ -1,0 +1,27 @@
+h1 {
+    margin-left: 20px;
+}
+
+.flexing,
+.subheaders{
+    display: flex;
+    align-items: center;
+}
+
+.flexing {
+    border-bottom: 3px double black;
+    margin: 8px -8px
+}
+
+.subheaders {
+    padding: 0px 40px;
+    gap: 20px
+}
+
+.flexing > h1 {
+    margin-right: auto;
+}
+
+.flexing > .subheaders {
+    margin-left: 0;
+}
